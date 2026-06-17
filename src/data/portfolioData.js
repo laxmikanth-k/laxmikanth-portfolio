@@ -2,7 +2,7 @@ export const portfolioData = {
   personalInfo: {
     greeting: 'Hi, I am',
     name: 'Kotla Laxmi Kanth Reddy',
-    title: 'Software Developer',
+    title: 'Computer Science Graduate | Aspiring Software Developer',
     brand: 'LaxmiKanth',
     location: 'Hyderabad, India',
     summary: "Recent Computer Science graduate with strong foundations in Java, Spring Boot, React, and problem-solving, passionate about building impactful software solutions.",
@@ -26,12 +26,12 @@ export const portfolioData = {
   title: "About",
   profile: {
     profileInitials: "KLKR",
-    role: "Software Developer",
+    role: "Computer Science Graduate | Aspiring Software Developer",
     name: "Kotla Laxmi Kanth Reddy",
-    headline: "Passionate Java Full Stack Developer building scalable and user-friendly web applications.",
+    headline: "Computer Science Graduate passionate about building scalable web applications using Java, Spring Boot, React, and modern software development practices.",
     
     summary:
-      "Recent Computer Science Engineering graduate with strong skills in Java, Spring Boot, React, REST APIs, and MySQL. Passionate about developing efficient software solutions and continuously learning modern technologies.",
+      "Recent Computer Science Engineering graduate with strong foundations in Java, Spring Boot, React, REST APIs, MySQL, and Data Structures & Algorithms. Passionate about building scalable software solutions, solving real-world problems, and continuously learning modern technologies.",
 
     strongSkills: [
       "Java",
@@ -196,7 +196,7 @@ export const portfolioData = {
     
   ],
   socialLinks: {
-    linkedin: 'https://www.linkedin.com/in/kotla-laxmi-kanth-reddy',
+    linkedin: 'https://www.linkedin.com/in/laxmikanth-reddy-kotla/',
     github: 'https://github.com/laxmikanth-k',
   },
   projects: [
@@ -363,9 +363,9 @@ export const portfolioData = {
   achievementsSectionTitle: 'Achievements',
   educationSectionTitle: 'Education',
   contact: {
-    title: 'Get in Touch',
-    subtitle: 'Ready to launch your next product or collaborate? Send a message and I’ll respond quickly.',
-    description: 'Prefer email? Reach out directly at',
+    title: 'Let’s Connect',
+    subtitle: 'I’m actively seeking opportunities in Software Development and related technology roles.',
+    description: 'Feel free to reach out regarding job opportunities, internships, projects, collaborations, or professional networking.',
     location: 'Hyderabad, India',
     email: 'kotlaxmikanthreddy@gmail.com',
     phone: '+91 8008773569',
